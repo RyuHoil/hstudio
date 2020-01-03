@@ -1,0 +1,16 @@
+{
+    "server": "http://ryuhoil0712.synology.me/",
+    "path": "hstudio/dubu/",
+    "notices": [
+        {
+            "title": "",
+            "image": "20191231_1.png",
+            "connectUrl": "https://www.naver.com/"
+        },
+        {
+            "title": "",
+            "image": "20191231_2.png",
+            "connectUrl": "https://www.naver.com/"
+        }
+    ]
+}
