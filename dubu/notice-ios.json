@@ -1,0 +1,15 @@
+{
+	"success": true
+	, "data": [
+		{
+			"image": "https://static.cheese-cup-cake.com/dubu/notice/20191231_1.png"
+			, "url": ""
+			, "fnc": "itms-apps://itunes.apple.com/app/id1024941703"
+		}
+		, {
+			"image": "https://static.cheese-cup-cake.com/dubu/notice/20191231_2.png"
+			, "url": "https://www.naver.com/"
+			, "fnc": ""
+		}
+	]
+}
